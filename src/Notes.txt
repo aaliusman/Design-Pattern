@@ -20,5 +20,5 @@ Java 8, concept call Consumer. we can use lambda expression.
 Jfrog - Artifactory Management Tool, Just like github. Github maintains the code whereas Jfrog
 maintains the Artifactory snapshot, centralize location where you can push and pull.
 
-
+Just add chmod 777 for chromedriver
 Jenkins
