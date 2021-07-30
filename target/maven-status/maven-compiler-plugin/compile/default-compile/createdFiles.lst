@@ -1,0 +1,5 @@
+org/usmanacademy/PageObjects/TravelHomePage.class
+org/usmanacademy/dataLoads/DataReader.class
+org/usmanacademy/PageComponents/NavigationBar.class
+org/usmanacademy/dataLoads/DataReader$1.class
+org/usmanacademy/PageComponents/FooterNavigation.class

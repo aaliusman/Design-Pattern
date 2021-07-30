@@ -1,0 +1,23 @@
+SRP design Pattern: Single responsibility principle. should focus one single responsibility.
+we use this pattern when we have lot of functionality sitting on one single page. very easy to maintain.
+It works like page object. where each class has its own job. you can make code decoupled. This
+change is less likely to break the entire application as other classes still be doing their job as before.
+So Each class has its own responsibility.
+
+Strategy design patterns: Use the strategy when you have a lot of similar classes that only differ in the way they
+execute the some behavior. It should allow us to select an algorithm at runtime. code receives run-time instructions to decide
+which group of the algorithm to use.
+
+Factory Design Pattern: deal with the problem of creating objects without specifying the exact class of the object
+that it has to create. best way to create objects, without specifying the class. we create object by calling factory
+patter.
+
+Execute Around - If you have prerequisite, Execute around will be the best
+option to use. To execute common steps in your code.
+
+Java 8, concept call Consumer. we can use lambda expression.
+
+Jfrog - Artifactory Management Tool, Just like github. Github maintains the code whereas Jfrog
+maintains the Artifactory snapshot, centralize location where you can push and pull.
+
+
