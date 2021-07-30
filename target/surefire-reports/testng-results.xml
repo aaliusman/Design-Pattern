@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="38363" started-at="2021-07-29T19:09:15Z" finished-at="2021-07-29T19:09:53Z">
+  <suite name="Surefire suite" duration-ms="37365" started-at="2021-07-30T19:08:50Z" finished-at="2021-07-30T19:09:27Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="38363" started-at="2021-07-29T19:09:15Z" finished-at="2021-07-29T19:09:53Z">
+    <test name="Surefire test" duration-ms="37365" started-at="2021-07-30T19:08:50Z" finished-at="2021-07-30T19:09:27Z">
       <class name="org.usmanacademy.DemoTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="setUp" is-config="true" duration-ms="18131" started-at="2021-07-29T19:09:15Z" finished-at="2021-07-29T19:09:33Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="setUp" is-config="true" duration-ms="12880" started-at="2021-07-30T19:08:50Z" finished-at="2021-07-30T19:09:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="flightTest()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="flightTest" duration-ms="310" started-at="2021-07-29T19:09:33Z" finished-at="2021-07-29T19:09:33Z">
+        <test-method status="PASS" signature="flightTest()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="flightTest" duration-ms="327" started-at="2021-07-30T19:09:03Z" finished-at="2021-07-30T19:09:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flightTest -->
-        <test-method status="PASS" signature="multiCityTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="multiCityTrip" duration-ms="4734" started-at="2021-07-29T19:09:34Z" data-provider="getData" finished-at="2021-07-29T19:09:39Z">
+        <test-method status="PASS" signature="multiCityTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="multiCityTrip" duration-ms="6639" started-at="2021-07-30T19:09:05Z" data-provider="getData" finished-at="2021-07-30T19:09:12Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multiCityTrip -->
-        <test-method status="PASS" signature="multiCityTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="multiCityTrip" duration-ms="4191" started-at="2021-07-29T19:09:39Z" data-provider="getData" finished-at="2021-07-29T19:09:43Z">
+        <test-method status="PASS" signature="multiCityTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="multiCityTrip" duration-ms="4920" started-at="2021-07-30T19:09:12Z" data-provider="getData" finished-at="2021-07-30T19:09:17Z">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multiCityTrip -->
-        <test-method status="PASS" signature="roundTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="roundTrip" duration-ms="3216" started-at="2021-07-29T19:09:43Z" data-provider="getData" finished-at="2021-07-29T19:09:46Z">
+        <test-method status="PASS" signature="roundTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="roundTrip" duration-ms="5018" started-at="2021-07-30T19:09:17Z" data-provider="getData" finished-at="2021-07-30T19:09:22Z">
           <params>
             <param index="0">
               <value>
@@ -48,7 +48,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- roundTrip -->
-        <test-method status="PASS" signature="roundTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="roundTrip" duration-ms="6974" started-at="2021-07-29T19:09:46Z" data-provider="getData" finished-at="2021-07-29T19:09:53Z">
+        <test-method status="PASS" signature="roundTrip(java.util.HashMap)[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="roundTrip" duration-ms="5405" started-at="2021-07-30T19:09:22Z" data-provider="getData" finished-at="2021-07-30T19:09:27Z">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- roundTrip -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="tearDown" is-config="true" duration-ms="190" started-at="2021-07-29T19:09:53Z" finished-at="2021-07-29T19:09:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.usmanacademy.DemoTest@2c6a3f77]" name="tearDown" is-config="true" duration-ms="148" started-at="2021-07-30T19:09:27Z" finished-at="2021-07-30T19:09:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
