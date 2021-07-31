@@ -16,7 +16,7 @@ public class BaseTest {
 
 
     public WebDriver initializeDriver(){
-        System.setProperty("webdriver.chrome.driver", "/Users/bravo1516/Desktop/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "src/main/java/org/usmanacademy/drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
         return driver;
     }
