@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,7 +17,7 @@ public class BaseTest {
 
 
     public WebDriver initializeDriver(){
-        System.setProperty("webdriver.chrome.driver", "src/main/java/org/usmanacademy/drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/bravo1516/Downloads/chromedriver");
         WebDriver driver = new ChromeDriver();
         return driver;
     }
