@@ -23,4 +23,4 @@ maintains the Artifactory snapshot, centralize location where you can push and p
 Just add chmod 777 for chromedriver
 Jenkins
 
-Espresso
+Es
